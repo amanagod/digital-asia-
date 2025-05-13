@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* .logo{
+    margin: 0px;
+    padding: 0px;
+} */
+
+.logopi{
+    position: absolute;
+    height: 1.875rem;
+    width: 3.75rem;
+    border:   rgb(132, 11, 218) solid 5px;
+    border-radius: 30px;
+    transform: rotate(45deg);
+}
+.logopu{
+    position: absolute;
+    height: 1.875rem;
+    width: 3.75rem;
+    border: rgb(218, 11, 218) solid 5px;
+    border-radius: 30px;
+    transform: rotate(125deg);
+}
+
+.first{
+    padding: 4rem;
+    background-color: #161616;
+}
+.one{
+    background-color: #262525;
+    opacity: 0.5;
+    height: 30rem;
+    border: solid 262525 3px;
+    border-radius: 5%;
+}
+
+.logo2pi{
+    position: absolute;
+    height: 0.938rem;
+    width: 1.875rem;
+    border:   rgb(132, 11, 218) solid 2px;
+    border-radius: 30px;
+    transform: rotate(45deg);
+}
+.logo2pu{
+    position: absolute;
+    height: 0.938rem;
+    width: 1.875rem;    border: rgb(218, 11, 218) solid 2px;
+    border-radius: 30px;
+    transform: rotate(125deg);
+}
+
+.heading{
+    /* color: #9257F2; */
+    /* background: linear-gradient(to right,#9257F2, #F31AF7);
+    color: transparent;
+    background-clip: text; */
+    background: linear-gradient(to right, #9257F2, #F31AF7); 
+ -webkit-text-fill-color: transparent; 
+ -webkit-background-clip: text; 
+}
+.box{
+
+    background-color: #262525;
+    height: 17rem;
+    width: 100%;
+    border: solid 262525 3px;
+    border-radius: 5%;
+}
+.inp{
+    background-color: #262525;
+    margin: 0.7rem;
+    width: 100%;
+ border: solid #262525 5px;
+ border-radius: 3rem;
+}
